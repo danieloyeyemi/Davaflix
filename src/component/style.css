@@ -1,0 +1,39 @@
+/* img:hover{
+    animation: trailer 10s linear infinite; 
+    width: 30px;
+} */
+.card{
+    height: 300px;
+    width: 250px;
+}
+.navbar{
+    background-color: transparent;
+}
+.container-fluid{
+    background-color: transparent;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+#ann{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.nav-item{
+    font-size: smaller;
+}
+footer{
+ position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: rgb(195, 173, 29);
+  background: transparent;
+  text-align: center;
+}
